@@ -1,0 +1,52 @@
+# HF Tuner project
+
+## Part dimensions
+
+Both capacitors have 6.3mm shafts, mounting points are in line with the shaft, mounting hole size: 2.9 mm
+
+### 100 pF variable cap
+
+Mounting points are in line with the shaft
+
+Panel mount points to back: 40 mm
+Mounting screw separation: 16.3 mm
+Width: 24 mm
+Shaft length after mounting points: 14 mm
+Height: 31 mm
+Shaft center above bottom: 19 mm
+
+
+### 150 pF variable cap
+
+Mount points front to back: 51.4 mm
+Mounting screw separation: 16.3 mm
+Width: 24 mm
+Shaft length after mounting points: 22 mm
+Height: 31 mm
+Shaft center above bottom: 19 mm
+
+### BNC connectors
+
+Min hole size: 11.5 mm
+Mounting hole spacing: 12.5 mm
+Mounting hole size: 2.9 mm
+
+### Switches
+
+Mounting hole size: 6.3 mm
+Spacing interval min: 15 mm
+
+### Inductor (for center-tap)
+
+Core diameter: 7.25 mm
+Core len: 25.5 mm
+
+## Construction
+
+Switch-capacitor center-center spacing: 7.5+10+12=29.5 mm
+
+## Inductor center-tap
+
+End holder spacing: 3 mm stop + 25 mm sweep range = 28 mm between closer inside edges
+Inside end length after stop: 28 mm
+Fully-in length past back of back holder: 25 mm
