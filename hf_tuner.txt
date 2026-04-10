@@ -47,6 +47,25 @@ Switch-capacitor center-center spacing: 7.5+10+12=29.5 mm
 
 ## Inductor center-tap
 
-End holder spacing: 3 mm stop + 25 mm sweep range = 28 mm between closer inside edges
-Inside end length after stop: 28 mm
-Fully-in length past back of back holder: 25 mm
+Gear width: 4 mm
+Both shafts dia: 3 mm
+Gear shaft len: 84 mm
+Slider shaft len: 92 mm
+Slider opposite edge to shaft center: 8 mm
+Slider top edge to shaft center: 5.38 mm
+Slider Shafts center-to-center for gear to work: 7.8 mm
+Slider len: 50 mm
+Slider shaft attachments outside-to-outside: 35 mm
+Slider inside edge to shaft: 3.5 mm
+
+The gear teeth on the slider will be facing down and the whole slider will be on the back side of the shaft against the back wall of the tuner box. The inductor will be mounted above it.
+
+Adjustment range: 42 mm, baed on slider teeth
+Slider shaft fixed mounts inside distance: 42 mm + 35 mm + 1 mm (slider attachment flange clearence) = 78 mm
+
+Total depth from back: 18.2 mm
+
+There will be 4 laser cut 3 mm parts:
+
+* Two identical end-pieces that hold the slider shaft
+* 
